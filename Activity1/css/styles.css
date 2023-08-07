@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h3{
+    color: greenyellow;
+}
+
+table,th,td{
+    width: 1200px;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
